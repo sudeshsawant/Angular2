@@ -1,2 +1,2 @@
 # Angular2
-practice
+Angular Sample Application
